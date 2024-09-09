@@ -1082,6 +1082,7 @@ else
 fi
 ```
 ## OUTPUT 
+![image](https://github.com/HareeshrajaR/OS-Linux-commands-Shell-script/assets/144870459/4c86ecae-a50d-4a9d-8146-78ad4d1d4a20)
 
 
 # RESULT:
