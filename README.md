@@ -1582,7 +1582,6 @@ Enter the number
 Number is palindrome
 locathost:~#
 
-
 ```
 # RESULT:
 The Commands are executed successfully.
